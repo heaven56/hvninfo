@@ -18,10 +18,10 @@ pygmentsUseClasses = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "Yusuke Ishimi"
-    description = "Yusuke Ishimi's personal website"
-    keywords = "blog,developer,personal"
-    info = "WEB AND APPS ENGINEER"
+    author = "heaven56"
+    description = "heaven56's sample site"
+    keywords = "noob"
+    info = "university student"
     avatarurl = "images/avatar.jpg"
     footercontent = "Enter a text here."
     fixedbarContent = "Do you want to know me more private?→"
@@ -48,28 +48,28 @@ disqusShortname = "yourdiscussshortname"
 [[params.social]]
     name = "Github"
     weight = 1
-    url = "https://github.com/naro143/"
+    url = "https://github.com/heaven56/"
 [[params.social]]
     name = "Twitter"
     weight = 2
-    url = "https://twitter.com/naro143/"
+    url = "https://twitter.com/"
 [[params.social]]
     name = "LinkedIn"
     weight = 3
-    url = "https://www.linkedin.com/in/naro143/"
+    url = "https://www.linkedin.com/"
 
 [languages]
     [languages.en]
         languagecode = "en"
         languagename = "English" # The language name to be displayed in the selector.
-        title = "Yusuke Ishimi"
+        title = "heaven56"
 
         # You can configure the theme parameter for each language.
         [languages.en.params]
-            author = "Yusuke Ishimi"
-            info = "WEB AND APPS ENGINEER"
-            description = "Yusuke Ishimi's personal website"
-            keywords = "blog,developer,personal"
+            author = "heaven56"
+            info = "university student"
+            description = "heaven56's sample site"
+            keywords = "noob"
 
         [languages.en.menu] # It is possible to change the menu too.
 
@@ -96,13 +96,13 @@ disqusShortname = "yourdiscussshortname"
     [languages.ja]
         languagecode = "ja"
         languagename = "Japanese"
-        title = "石見 優丞"
+        title = "Hugoサンプルサイト"
 
         [languages.ja.params]
-            author = "石見 優丞"
-            description = "石見のサイト"
-            keywords = "blog,developer,strona domowa"
-            info = "WEBとアプリのエンジニア"
+            author = "heaven56"
+            description = "heaven56のサイト"
+            keywords = "noob"
+            info = "大学生"
 
         [languages.ja.menu]
             [[languages.ja.menu.main]]
